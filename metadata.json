@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Horlogerie - Custom Watch Configurator",
+  "description": "A luxury custom watch builder and prototype configurator for bespoke timepieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
